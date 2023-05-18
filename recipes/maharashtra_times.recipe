@@ -14,5 +14,5 @@ class HindustanTimes(BasicNewsRecipe):
 
     feeds = [
         ('News',
-         'http://maharashtratimes.indiatimes.com/rssfeeds/2429656.cms'),
+         'https://maharashtratimes.com/rssfeedsdefault.cms'),
     ]
